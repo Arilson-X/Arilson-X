@@ -6,6 +6,13 @@ Tenho 24 anos, sou de Cachoeira de Minas, sul de Minas Gerais, Brasil. Atualment
 _I'm 24 years old, I'M from Cachoeira de Minas, in the south of Minas Gerais, Brazil. I'm currently studying the last semester of Computer Engineering at Instituto Nacional de Telecomunicações - INATEL, I'm also trained as an electronics technician by Escola Técnica de Eletrônica "Francisco Moreira da Costa"_
 
 ## Ferramentas E Tecnologias / _Tools and Technologies_
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" witdth="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" witdth="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" witdth="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" witdth="40" height="40"/>
+
+## Estou aprendendo / _I'm learining_
+
+
+
+
 
 
 <!--
