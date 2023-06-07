@@ -19,8 +19,11 @@ _I'm 24 years old, I'M from Cachoeira de Minas, in the south of Minas Gerais, Br
 <a href="https://www.linkedin.com/in/arilson-xavier-0a581a145/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
-
+<div>
+<a href="https://github.com/Arilson-X">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arilson-X&layout=compact&langs_count=7&theme=merko"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arilson-X&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+</div>
 
 
 
