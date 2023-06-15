@@ -32,6 +32,9 @@ _I'm 24 years old, I'M from Cachoeira de Minas, in the south of Minas Gerais, Br
 <a href="https://www.linkedin.com/in/arilson-xavier-0a581a145/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+## Cursos / _Courses_ :
+- 📑[Alura](https://cursos.alura.com.br/user/arilsonsouzacosta0)
+
 ## Estatísticas / _Stats_
 
 <div>
