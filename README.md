@@ -1,9 +1,9 @@
 # Arilson Xavier
 
 ## Resumo / _Abstract_ 👨
-Tenho 24 anos, sou de Cachoeira de Minas, sul de Minas Gerais, Brasil. Atualmente estou cursando o ultimo semetre de Engenharia da Computação no Instituto Nacional de Telecomunicações - INATEL, também sou fomrado como técnico em eletrônica pela Escola Técnica de Eletrônica "Francisco Moreira da Costa".
+Tenho 24 anos, sou de Cachoeira de Minas, sul de Minas Gerais, Brasil. Bacharel em Engenharia da Computação pelo Instituto Nacional de Telecomunicações - INATEL, também sou formado como técnico em eletrônica pela Escola Técnica de Eletrônica "Francisco Moreira da Costa". Durante os ultimos 3 anos me aprofundei na área de de dados. Utilizando de técnicas de análise e ciência de dados busquei obter resultados não só no meu trabalho como também em minha vida pessoal, especialmente nas áreas de agricultura e investimentos.
 
-_I'm 24 years old, I'M from Cachoeira de Minas, in the south of Minas Gerais, Brazil. I'm currently studying the last semester of Computer Engineering at Instituto Nacional de Telecomunicações - INATEL, I'm also trained as an electronics technician by Escola Técnica de Eletrônica "Francisco Moreira da Costa"_
+_I'm 24 years old, I'm from Cachoeira de Minas, south of Minas Gerais, Brazil. Bachelor in Computer Engineering from the National Institute of Telecommunications - INATEL, I also graduated as an electronics technician from the Technical School of Electronics "Francisco Moreira da Costa". During the last 3 years I have deepened myself in the area of data. Using analysis techniques and data science, I sought to obtain results not only in my work but also in my personal life, especially in the areas of agriculture and investments._
 
 ## Ferramentas e Tecnologias / _Tools and Technologies_ :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" witdth="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" witdth="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" witdth="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" witdth="40" height="40"/>
