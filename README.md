@@ -1,7 +1,7 @@
 # Arilson Xavier
 
 ## Resumo / _Abstract_ 👨
-Tenho 24 anos, sou de Cachoeira de Minas, sul de Minas Gerais, Brasil. Bacharel em Engenharia da Computação pelo Instituto Nacional de Telecomunicações - INATEL, também sou formado como técnico em eletrônica pela Escola Técnica de Eletrônica "Francisco Moreira da Costa". Durante os ultimos 3 anos me aprofundei na área de de dados. Utilizando de técnicas de análise e ciência de dados busquei obter resultados não só no meu trabalho como também em minha vida pessoal, especialmente nas áreas de agricultura e investimentos.
+Tenho 25 anos, sou de Cachoeira de Minas, sul de Minas Gerais, Brasil. Bacharel em Engenharia da Computação pelo Instituto Nacional de Telecomunicações - INATEL, também sou formado como técnico em eletrônica pela Escola Técnica de Eletrônica "Francisco Moreira da Costa". Durante os ultimos 3 anos me aprofundei na área de de dados. Utilizando de técnicas de análise e ciência de dados busquei obter resultados não só no meu trabalho como também em minha vida pessoal, especialmente nas áreas de agricultura e investimentos.
 
 _I'm 24 years old, I'm from Cachoeira de Minas, south of Minas Gerais, Brazil. Bachelor in Computer Engineering from the National Institute of Telecommunications - INATEL, I also graduated as an electronics technician from the Technical School of Electronics "Francisco Moreira da Costa". During the last 3 years I have deepened myself in the area of data. Using analysis techniques and data science, I sought to obtain results not only in my work but also in my personal life, especially in the areas of agriculture and investments._
 
